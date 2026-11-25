@@ -1,0 +1,6 @@
+{
+  "name": "ReviewMattrs",
+  "description": "NFC-enabled Google Review cards and reputation management software for restaurants, hospitality, and modern businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

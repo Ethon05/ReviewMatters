@@ -1,0 +1,935 @@
+# MASTER PROMPT: BUILD REVIEWMATTRS — PREMIUM NFC GOOGLE REVIEW & REPUTATION MANAGEMENT PLATFORM
+
+## 1. YOUR ROLE
+
+Act as an elite creative director, senior UI/UX designer, award-winning SaaS product designer, and expert full-stack frontend engineer.
+
+Your task is to design and develop a complete, production-quality, interactive, responsive website for a technology brand called **ReviewMattrs**.
+
+The website must look and feel like a premium website designed by a top-tier digital product agency, with the visual quality, attention to detail, animations, and interactions expected from an exceptionally well-executed Claude-quality frontend project.
+
+Use the strongest available Gemini model and coding capabilities in Google AI Studio.
+
+Do not simply generate a generic SaaS landing page. Create a distinctive, visually immersive digital experience that communicates trust, technology, simplicity, and commercial value.
+
+The final website should be visually impressive while remaining highly functional, accessible, fast, and conversion-focused.
+
+## 2. BRAND IDENTITY AND ASSETS
+
+Brand name: ReviewMattrs
+
+Website: www.reviewmattrs.com
+
+Primary business: NFC-enabled Google Review cards and reputation management software.
+
+I have uploaded the official ReviewMattrs logo. Use this image as the primary brand identity reference.
+
+IMPORTANT BRAND INSTRUCTIONS:
+
+- Use the uploaded logo as provided.
+- Preserve its original proportions, shape, and visual identity.
+- Do not recreate, distort, or replace the logo with an unrelated icon.
+- Extract the visual language from the logo and apply it consistently throughout the website.
+- The logo features a black background, a white stylized R symbol, and a distinctive bright mint-green sparkle.
+- The brand should feel premium, modern, technology-driven, and trustworthy.
+
+### Brand color palette
+
+Use the following colors as the foundation:
+
+Primary background: #050505
+Secondary background: #0A0A0A
+Card background: #111111
+Elevated card background: #171717
+Primary white: #FFFFFF
+Secondary white: #D5D5D5
+Muted text: #929292
+Primary accent: #00E68A
+Secondary accent: #00C978
+Accent glow: rgba(0,230,138,0.20)
+Subtle borders: rgba(255,255,255,0.09)
+
+Green should be used strategically for important highlights, buttons, interactive elements, icons, and gradients.
+
+Avoid making the entire website green.
+
+### Typography
+
+Typography is extremely important.
+
+Use a modern premium sans-serif typeface throughout the entire website.
+
+Preferred font: Inter.
+
+Alternative: Manrope.
+
+Use:
+- Extra-bold typography for hero headlines.
+- Medium and semibold typography for section headings.
+- Regular typography for descriptions.
+- Carefully controlled letter spacing.
+- Large editorial-style headings.
+- Excellent readability on mobile devices.
+
+Load the font consistently using Google Fonts.
+
+Never mix unrelated font families.
+
+## 3. CREATIVE DIRECTION
+
+Use the uploaded reference website prompt, Ascend, as inspiration for its overall visual sophistication and immersive presentation.
+
+Do not copy the Ascend branding, text, assets, business model, or Earth imagery.
+
+Translate its design philosophy into ReviewMattrs.
+
+### Desired aesthetic
+
+Imagine a combination of:
+
+- Premium Apple product presentation.
+- Modern fintech SaaS landing pages.
+- High-end technology startups.
+- Minimalist black-and-white editorial design.
+- Sophisticated glassmorphism.
+- Subtle neon-green lighting.
+- Interactive product showcases.
+
+The website should feel expensive, polished, and intentional.
+
+### Visual requirements
+
+1. Deep black backgrounds with subtle atmospheric gradients.
+2. Large, bold white typography.
+3. Mint-green gradient highlights.
+4. Glassmorphism cards with subtle borders.
+5. Soft green radial lighting behind important product elements.
+6. Smooth scroll-triggered animations.
+7. Subtle parallax effects.
+8. Animated dashboard elements.
+9. Floating NFC cards and product mockups.
+10. Interactive hover states.
+11. Smooth page transitions and micro-interactions.
+12. Beautiful mobile navigation.
+
+Use negative space intelligently.
+
+Avoid excessive gradients, unnecessary decorative elements, generic stock illustrations, and repetitive card layouts.
+
+The visual design must feel custom-designed for ReviewMattrs.
+
+## 4. BUSINESS MODEL AND PRODUCT UNDERSTANDING
+
+ReviewMattrs provides two connected products.
+
+### PRODUCT A: NFC-ENABLED GOOGLE REVIEW CARD
+
+A physical NFC-enabled card that allows customers to interact with a business's review experience using their smartphones.
+
+The intended customer experience:
+
+1. A customer visits a restaurant, cafe, hotel, retail shop, or service business.
+2. At the end of the experience, the business invites the customer to use the ReviewMattrs NFC card.
+3. The customer taps their NFC-enabled smartphone against the card.
+4. A digital experience opens in the smartphone browser.
+5. The customer can access the business's Google review page and submit a review.
+
+The product should communicate simplicity:
+
+**Tap. Review. Grow.**
+
+Explain that customers can use compatible NFC-enabled smartphones without installing a separate application.
+
+Also explain that a QR code can provide an alternative for devices that cannot use NFC.
+
+Create a beautiful visual product demonstration showing:
+
+- A premium black NFC card.
+- The ReviewMattrs logo printed on the card.
+- A subtle green NFC symbol.
+- A smartphone approaching or tapping the card.
+- A simulated mobile browser opening a review experience.
+- A clear Google review call-to-action.
+
+The card mockup should look realistic, premium, and physically tangible.
+
+Do not use an inaccurate Google logo or imply that ReviewMattrs is an official Google product or partner.
+
+### PRODUCT B: REVIEWMATTRS SAAS PLATFORM
+
+ReviewMattrs also offers a reputation management software solution.
+
+Explain how the platform helps businesses:
+
+- Simplify their customer review collection process.
+- Improve their Google review acquisition workflow.
+- Monitor customer feedback.
+- Understand customer satisfaction.
+- Identify recurring complaints.
+- Manage their online reputation.
+- Improve their service quality.
+- Build stronger customer trust.
+- Monitor review performance over time.
+
+Create a compelling SaaS dashboard preview.
+
+Dashboard components should include:
+
+- Total reviews received.
+- Average Google rating.
+- Review activity over time.
+- Customer feedback overview.
+- Recent review activity.
+- Review performance charts.
+- Business performance insights.
+
+Use illustrative sample data and clearly treat it as demonstration data rather than actual ReviewMattrs customer statistics.
+
+## 5. IMPORTANT: REVIEW MANAGEMENT AND GOOGLE POLICY COMPLIANCE
+
+The website must explain the ReviewMattrs feedback and reputation-management workflow accurately.
+
+Businesses need a way to collect private feedback and identify customer complaints before they escalate.
+
+However, Google does not permit review gating, selectively soliciting positive reviews, or suppressing negative reviews.
+
+Therefore:
+
+- Do not claim that ReviewMattrs blocks negative Google reviews.
+- Do not promise that negative reviews cannot reach a business's Google profile.
+- Do not automatically redirect unhappy customers away from Google while sending satisfied customers to Google.
+- Do not present selective review solicitation as a feature.
+
+Instead, communicate the following compliant value proposition:
+
+"Understand customer feedback. Respond faster. Improve every experience."
+
+Design a transparent feedback experience in which every customer has access to the Google review option, alongside an optional private feedback channel.
+
+The SaaS platform can help businesses collect private complaints, identify service issues, monitor public reviews, and respond appropriately.
+
+Present this as a reputation-management and customer-experience improvement system, not a way to manipulate Google ratings.
+
+## 6. WEBSITE STRUCTURE
+
+Build the website with the following sections.
+
+# SECTION 1 — NAVIGATION
+
+Create a premium sticky navigation bar.
+
+Left:
+- Official ReviewMattrs logo.
+
+Center:
+- Home
+- How It Works
+- Products
+- Solutions
+- Pricing
+- FAQ
+
+Right:
+- Login
+- Get Started (primary green button)
+
+Navigation behavior:
+
+- Transparent over the hero initially.
+- Smoothly transitions into a dark glass background when scrolling.
+- Subtle backdrop blur.
+- Smooth scrolling to the corresponding sections.
+- Mobile hamburger navigation with an elegant animated menu.
+
+Keep navigation clean and uncluttered.
+
+# SECTION 2 — HERO EXPERIENCE
+
+This is the most important visual section.
+
+Create an impressive, cinematic hero experience that immediately communicates the product.
+
+Eyebrow:
+
+SMARTER REVIEWS. STRONGER BUSINESSES.
+
+Main headline:
+
+"Turn Every Customer Experience Into a 5-Star Opportunity."
+
+Highlight selected words using a mint-green gradient.
+
+Supporting copy:
+
+"Make it effortless for customers to leave Google reviews. With ReviewMattrs NFC cards and intelligent reputation management, help your business build trust, strengthen its online presence, and grow."
+
+Primary CTA:
+
+"Get Your Review Card"
+
+Secondary CTA:
+
+"Explore How It Works"
+
+Include a subtle animated arrow or scroll indicator.
+
+### Hero visual
+
+Create an impressive composition featuring:
+
+- A realistic floating black ReviewMattrs NFC card.
+- A modern smartphone displaying a simulated review interface.
+- A green NFC tap animation.
+- Subtle animated particles or green light trails.
+- A floating Google review interface mockup.
+- A soft atmospheric glow behind the product.
+
+The product should be the visual focal point.
+
+Create depth through layered positioning, shadows, and subtle motion.
+
+The animation should feel premium rather than playful.
+
+On mobile, reorganize the product composition vertically without sacrificing its visual impact.
+
+# SECTION 3 — TRUST AND VALUE PROPOSITION
+
+Headline:
+
+"Your Reputation Is Your Business's Most Valuable Asset."
+
+Supporting copy:
+
+"Before choosing where to eat, shop, or spend their money, customers look at what others are saying."
+
+Create three visually distinctive information blocks:
+
+1. FIRST IMPRESSIONS MATTER
+
+Customers frequently use online reviews to evaluate a business before visiting.
+
+2. TRUST DRIVES DECISIONS
+
+A strong, authentic review presence helps potential customers feel more confident choosing your business.
+
+3. EVERY EXPERIENCE COUNTS
+
+Making it easier to share feedback helps businesses understand their customers and continuously improve.
+
+Use tasteful icons and subtle scroll reveals.
+
+Do not invent statistics or present unsupported numerical claims as facts.
+
+# SECTION 4 — WHY GOOGLE REVIEWS MATTER
+
+Create a compelling educational section.
+
+Headline:
+
+"Why Google Reviews Matter More Than Ever."
+
+Explain the commercial value of Google reviews.
+
+Include four premium visual cards:
+
+CARD 1 — LOCAL VISIBILITY
+
+A strong review presence can support customer discovery and contribute to local search performance.
+
+CARD 2 — CUSTOMER TRUST
+
+Authentic customer experiences help new customers make informed decisions.
+
+CARD 3 — PURCHASE CONFIDENCE
+
+Reviews help potential customers compare businesses and feel more confident in their choices.
+
+CARD 4 — BUSINESS INSIGHTS
+
+Customer feedback helps businesses understand strengths, identify problems, and improve service quality.
+
+Use an elegant grid layout.
+
+Each card should have a distinct icon, subtle green accent, and interactive hover effect.
+
+# SECTION 5 — PRODUCT INTRODUCTION: THE NFC REVIEW CARD
+
+Headline:
+
+"One Tap Can Start a Better Customer Journey."
+
+Supporting copy:
+
+"Meet the ReviewMattrs NFC card. A simple, elegant way to make sharing customer feedback part of your everyday business experience."
+
+Create a premium product showcase.
+
+Include:
+
+- Large 3D-style black NFC card mockup.
+- Official ReviewMattrs logo.
+- Green NFC symbol.
+- Smartphone mockup.
+- Animated tap interaction.
+- Simulated browser opening.
+- Google review interface.
+
+Add a three-step interaction:
+
+STEP 01 — TAP
+
+Customers tap their smartphone against the ReviewMattrs NFC card.
+
+STEP 02 — CONNECT
+
+The card opens the business's configured digital review experience.
+
+STEP 03 — SHARE
+
+Customers can access the Google review option and share their experience.
+
+Add CTA:
+
+"Get Your NFC Card"
+
+The CTA should scroll to the pricing section.
+
+# SECTION 6 — HOW REVIEWMATTRS WORKS
+
+Create a visually engaging process section.
+
+Headline:
+
+"Simple for Customers. Powerful for Businesses."
+
+Show a horizontal or vertical connected journey with four steps.
+
+1. CONFIGURE YOUR CARD
+
+Set up the NFC experience with your business's Google review destination.
+
+2. PLACE IT WHERE CUSTOMERS INTERACT
+
+Position your card at restaurant counters, tables, reception desks, checkout counters, or service areas.
+
+3. CUSTOMERS TAP AND CONNECT
+
+Customers use their smartphones to access the review experience.
+
+4. MANAGE YOUR REPUTATION
+
+Use ReviewMattrs to understand feedback, monitor reviews, and improve customer experiences.
+
+Use animated connecting lines, numbered steps, and green progress indicators.
+
+# SECTION 7 — BUILT FOR FOOD BUSINESSES
+
+This section is particularly important.
+
+ReviewMattrs should communicate that restaurants, cafes, and food businesses are a primary target market.
+
+Headline:
+
+"Made for Businesses Where Every Experience Matters."
+
+Supporting copy:
+
+"From the first bite to the final bill, every customer interaction is an opportunity to build lasting trust."
+
+Create an immersive visual section with four business categories:
+
+RESTAURANTS
+Make it easy for diners to discover your Google review experience after their meal.
+
+CAFES
+Turn everyday coffee visits into opportunities for genuine customer feedback.
+
+HOTELS & HOSPITALITY
+Help guests share their experiences and give your team valuable feedback.
+
+RETAIL & SERVICE BUSINESSES
+Make collecting customer feedback part of your everyday service process.
+
+Use premium photography or realistic image compositions.
+
+Images should be darkened or color-graded to match the black-and-green brand aesthetic.
+
+Avoid generic illustrations.
+
+# SECTION 8 — SAAS DASHBOARD SHOWCASE
+
+Headline:
+
+"More Than a Card. Your Reputation Command Center."
+
+Supporting copy:
+
+"ReviewMattrs brings customer feedback and reputation insights into one convenient platform."
+
+Create a visually sophisticated, realistic SaaS dashboard preview.
+
+Dashboard should feature:
+
+TOP METRICS:
+- Total Reviews.
+- Average Rating.
+- New Reviews.
+- Feedback Received.
+
+CHARTS:
+- Review activity over time.
+- Rating distribution.
+- Monthly performance.
+
+RECENT ACTIVITY:
+- Recent customer review entries.
+- Review dates.
+- Star ratings.
+- Feedback status.
+
+INSIGHTS:
+- Customer satisfaction trends.
+- Frequently mentioned issues.
+- Opportunities for improvement.
+
+Use realistic sample data, clearly marked as demo data.
+
+Include subtle chart animations and dashboard interactions.
+
+Make the dashboard look like a real software product rather than a static decorative image.
+
+# SECTION 9 — CUSTOMER FEEDBACK MANAGEMENT
+
+Headline:
+
+"Listen Better. Respond Faster. Improve Continuously."
+
+Explain how ReviewMattrs helps businesses understand customer experiences.
+
+Create a two-column layout.
+
+LEFT:
+
+A visual feedback collection interface with:
+
+- Customer feedback form.
+- Optional private feedback submission.
+- Customer experience rating.
+- Feedback categories.
+- Submission confirmation.
+
+RIGHT:
+
+Explain the benefits:
+
+- Identify customer concerns.
+- Understand recurring service issues.
+- Receive private customer feedback.
+- Monitor public Google reviews.
+- Improve customer experiences.
+- Maintain transparent review collection practices.
+
+Make clear that private feedback is available alongside the Google review option and that all customers retain equal access to Google reviews.
+
+# SECTION 10 — PRICING
+
+This section must be highly polished and interactive.
+
+Headline:
+
+"Get Started With ReviewMattrs."
+
+Supporting copy:
+
+"Simple pricing. Powerful reputation management."
+
+The pricing structure is:
+
+### NFC REVIEW CARD
+
+One-time payment: ৳1,200 per card.
+
+### SOFTWARE SUBSCRIPTION
+
+Recurring payment: ৳200 per month per card.
+
+### BULK PURCHASE DISCOUNTS
+
+Apply discounts to the one-time card payment only.
+
+- 1 card: No discount.
+- 2–5 cards: 15% discount on the one-time payment.
+- 6 or more cards: 20% discount on the one-time payment.
+
+Monthly recurring subscription charges remain unchanged regardless of quantity.
+
+### BUILD AN INTERACTIVE PRICING CALCULATOR
+
+Create a premium interactive quantity selector.
+
+The user should be able to:
+
+- Increase card quantity.
+- Decrease card quantity.
+- Enter a custom quantity.
+- See the applicable discount automatically.
+- See the original card price.
+- See the discounted one-time card total.
+- See the monthly recurring subscription.
+- See the combined first-month payment.
+
+Pricing formulas:
+
+Original one-time price = Quantity × 1,200 BDT.
+
+Discount:
+- Quantity = 1: 0%.
+- Quantity = 2–5: 15%.
+- Quantity ≥ 6: 20%.
+
+Discounted one-time price = Original one-time price × (1 − discount rate).
+
+Monthly recurring payment = Quantity × 200 BDT.
+
+First-month total = Discounted one-time price + Monthly recurring payment.
+
+IMPORTANT: Display the monthly recurring payment separately from the one-time purchase.
+
+### PRICING EXAMPLE
+
+For one card:
+- Card payment: ৳1,200.
+- Monthly subscription: ৳200.
+- First-month total: ৳1,400.
+
+For two cards:
+- Original card payment: ৳2,400.
+- Discount: 15%.
+- Discounted card payment: ৳2,040.
+- Monthly subscription: ৳400.
+- First-month total: ৳2,440.
+
+For six cards:
+- Original card payment: ৳7,200.
+- Discount: 20%.
+- Discounted card payment: ৳5,760.
+- Monthly subscription: ৳1,200.
+- First-month total: ৳6,960.
+
+Add a live calculation animation whenever the quantity changes.
+
+Display a clear price breakdown.
+
+Add a primary CTA:
+
+"Order Your Cards"
+
+The CTA should lead to a configurable order/contact destination.
+
+Do not invent payment gateway integrations or claim that an order has been completed.
+
+# SECTION 11 — FAQ
+
+Headline:
+
+"Questions? We've Got You."
+
+Build an elegant interactive accordion.
+
+Include:
+
+1. What is a ReviewMattrs NFC card?
+2. How does NFC review collection work?
+3. Do customers need to install an application?
+4. Does the card work with every smartphone?
+5. Can I use a QR code instead of NFC?
+6. How do I connect my Google Business Profile?
+7. What does the monthly subscription include?
+8. Are bulk discounts available?
+9. Can I purchase multiple cards for different locations?
+10. Can ReviewMattrs prevent negative Google reviews?
+
+For the last question, explain honestly that Google controls its review platform and ReviewMattrs cannot prevent customers from publishing legitimate negative reviews. ReviewMattrs helps businesses manage feedback, monitor their reputation, and respond appropriately.
+
+All FAQ answers should expand and collapse smoothly.
+
+# SECTION 12 — FINAL CTA
+
+Create a visually powerful final conversion section.
+
+Headline:
+
+"Your Next Customer Is Already Looking at Your Reviews."
+
+Supporting copy:
+
+"Make it easier for customers to discover your business, share authentic experiences, and help your reputation grow with ReviewMattrs."
+
+Primary CTA:
+
+"Get Started Today"
+
+Secondary CTA:
+
+"Talk to Our Team"
+
+Use a large green atmospheric glow behind the headline and a premium product composition.
+
+# SECTION 13 — FOOTER
+
+Create a premium dark footer.
+
+Left:
+- ReviewMattrs logo.
+- Short brand description.
+
+"Making customer feedback simpler, smarter, and more accessible for modern businesses."
+
+Navigation columns:
+
+PRODUCT
+- NFC Review Cards
+- SaaS Platform
+- Pricing
+- How It Works
+
+SOLUTIONS
+- Restaurants
+- Cafes
+- Hospitality
+- Retail & Services
+
+COMPANY
+- About Us
+- Contact
+- FAQ
+
+LEGAL
+- Privacy Policy
+- Terms & Conditions
+
+Bottom:
+- Copyright © current year ReviewMattrs.
+- www.reviewmattrs.com
+- Social media placeholders.
+
+Do not invent social media profiles or contact information.
+
+Use clearly identifiable configurable placeholders where real details are unavailable.
+
+## 7. INTERACTION AND ANIMATION REQUIREMENTS
+
+The website must be interactive, not simply visually attractive.
+
+Implement:
+
+1. Smooth scrolling.
+2. Sticky navigation.
+3. Animated mobile navigation.
+4. Scroll-triggered section reveals.
+5. Subtle parallax movement.
+6. Animated product card presentation.
+7. NFC tap demonstration.
+8. Interactive dashboard preview.
+9. Animated charts.
+10. Functional pricing calculator.
+11. Interactive FAQ accordion.
+12. Hover-responsive buttons.
+13. Smooth card transitions.
+14. Animated numerical counters where appropriate.
+15. Subtle glowing accent effects.
+
+Animations should use smooth easing and remain performant.
+
+Avoid excessive movement and unnecessary animation.
+
+Respect prefers-reduced-motion accessibility settings.
+
+## 8. RESPONSIVE DESIGN
+
+Build mobile-first responsive layouts.
+
+The website must work beautifully across:
+
+- 360px mobile screens.
+- 390px mobile screens.
+- 430px mobile screens.
+- Tablets.
+- Laptops.
+- Large desktop displays.
+
+Pay particular attention to:
+
+- Navigation behavior.
+- Hero typography.
+- NFC card and phone positioning.
+- Dashboard readability.
+- Pricing calculator usability.
+- Section spacing.
+- Button sizing.
+- Image scaling.
+
+Never allow horizontal overflow.
+
+On mobile, simplify complex animations rather than removing the overall design quality.
+
+## 9. TECHNICAL REQUIREMENTS
+
+Build a fully functional frontend project suitable for Google AI Studio.
+
+Preferred implementation:
+
+- React.
+- TypeScript.
+- Modern CSS.
+- Lucide icons.
+- Framer Motion where supported.
+- Responsive component architecture.
+
+Use the available Google AI Studio environment and its supported development workflow.
+
+Structure the application into reusable components.
+
+Suggested components:
+
+- Navbar
+- HeroSection
+- TrustSection
+- WhyReviewsMatter
+- NFCProductShowcase
+- HowItWorks
+- IndustriesSection
+- DashboardShowcase
+- FeedbackSection
+- PricingCalculator
+- FAQ
+- FinalCTA
+- Footer
+
+Technical expectations:
+
+- Clean and maintainable code.
+- Reusable design tokens.
+- Semantic HTML.
+- Accessible interactions.
+- Optimized images.
+- Lazy loading where appropriate.
+- Proper responsive breakpoints.
+- Smooth animation performance.
+- No unnecessary dependencies.
+- No console errors.
+- No broken navigation links.
+- No placeholder buttons that do nothing.
+
+Use CSS gradients, SVG, CSS animations, and lightweight 3D effects where practical.
+
+If a complex visual effect negatively impacts performance, use a visually convincing lightweight alternative.
+
+Do not introduce unnecessary external services.
+
+## 10. FUNCTIONALITY AND CONVERSION
+
+The website is intended to convert visitors into paying ReviewMattrs customers.
+
+Every major section should have a clear purpose.
+
+Use strong CTA placement.
+
+The most important conversion actions are:
+
+1. Purchasing NFC cards.
+2. Understanding the monthly SaaS subscription.
+3. Contacting the business.
+4. Exploring how the product works.
+
+Use configurable destinations for ordering, contact, login, and other actions.
+
+Do not invent a backend, authentication system, payment integration, or live Google Business Profile integration.
+
+Where a backend is required, create a clean integration-ready interface and clearly identify the configuration needed.
+
+## 11. CONTENT AND COPYWRITING QUALITY
+
+Write polished, concise, conversion-oriented English.
+
+The tone should be:
+
+- Professional.
+- Confident.
+- Modern.
+- Trustworthy.
+- Friendly.
+- Technology-driven.
+
+Avoid exaggerated marketing claims.
+
+Avoid generic phrases such as "revolutionize your business" unless they genuinely add value.
+
+Keep headlines memorable.
+
+Keep descriptions concise.
+
+Emphasize tangible business benefits rather than technical jargon.
+
+## 12. FINAL DESIGN QUALITY CHECKLIST
+
+Before considering the project complete, verify the following:
+
+- Official ReviewMattrs logo is used correctly.
+- Brand colors are consistent.
+- Typography is consistent.
+- The hero is visually impressive.
+- Product mockups look premium.
+- NFC interaction is understandable.
+- SaaS dashboard looks realistic.
+- Pricing calculator works correctly.
+- Bulk discounts calculate correctly.
+- Monthly subscriptions never receive bulk discounts.
+- Google review policy claims are accurate.
+- FAQ accordion works.
+- Mobile navigation works.
+- All CTAs have meaningful actions or configurable destinations.
+- All sections are responsive.
+- Animations are smooth.
+- No horizontal overflow.
+- No console errors.
+- No broken images.
+- No fake customer testimonials.
+- No unsupported business statistics.
+- No fabricated integrations.
+
+## 13. EXECUTION INSTRUCTIONS
+
+Work as a senior product design and engineering team.
+
+First, establish the complete visual system and component architecture.
+
+Then build the entire website, not just the hero section.
+
+Do not stop after producing a design concept or a static prototype.
+
+Implement the complete page with all the sections, interactions, pricing logic, responsive behavior, and animations described above.
+
+Make sensible design decisions independently instead of repeatedly asking for approval.
+
+Where business information is unavailable, use clearly identifiable configuration placeholders instead of inventing information.
+
+Prioritize exceptional visual quality, usability, and performance.
+
+**FINAL OBJECTIVE:**
+
+Deliver a premium, modern, visually immersive, fully responsive ReviewMattrs website that looks like a professionally funded SaaS startup's digital flagship.
+
+A visitor should immediately understand:
+
+1. What ReviewMattrs is.
+2. What the NFC Google Review card does.
+3. Why Google reviews matter.
+4. How the SaaS platform helps businesses.
+5. How ReviewMattrs supports restaurants and other customer-facing businesses.
+6. How much the product costs.
+7. How to purchase or contact the company.
+
+The finished experience should make visitors feel that ReviewMattrs is a serious, premium technology brand they can trust with their business reputation.
+
+**Do not compromise on visual quality. Build the complete experience.**
